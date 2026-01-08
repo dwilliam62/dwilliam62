@@ -2,7 +2,14 @@
 - 👀 I’m interested in Linux, Hyprland, scripting, Proxmox 
 - 🌱 I’m currently learning Spamish and BASH
 - 💞️ I’m looking to collaborate on Hyprland 
-- ✨ I currently maintain: 
+- ✨ I currently maintain:
+  -  [Jak's Hyprland dotfiles](https://gihub.com/Jakoolit/Hyprland-Dots)
+  -  [Jak's Arch Hyprland Installer](https://gihub.com/Jakoolit/Arch-Hyprland)
+  -  [Jak's Fedora Hyprland Installer](https://gihub.com/Jakoolit/Fedora-Hyprland)
+  -  [Jak's Debian Hyprland Installer](https://gihub.com/Jakoolit/Debian-Hyprland)
+  -  [Jak's Ubuntu Hyprland Installer](https://gihub.com/Jakoolit/Ubuntu-Hyprland)
+  -  [Jak's NixOS Hyprland Installer](https://gihub.com/Jakoolit/NixOS-Hyprland)
+  -  [Jak's OpenmSuse Hyprland Installer](https://gihub.com/Jakoolit/OpenSuse-Hyprland)
   -  [ZaneyOS](https://gitlab.com/zaney/zaneyos)
   -  [ddubsOS](https://gitlab.com/dwilliam62/ddubosos)
 
