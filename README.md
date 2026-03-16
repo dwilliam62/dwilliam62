@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning Spamish and BASH
 - 💞️ I’m looking to collaborate on Hyprland 
 - ✨ I currently maintain Jak's Community Dotfiles and installers:
-  -  [Hyprland dotfiles](https://gihub.com/LinuxBeginnings/Hyprland-Dots)
-  -  [Arch Hyprland Installer](https://gihub.com/LinuxBeginnings/Arch-Hyprland)
-  -  [Fedora Hyprland Installer](https://gihub.com/LinuxBeginnings/Fedora-Hyprland)
-  -  [Debian Hyprland Installer](https://gihub.com/LinuxBeginnings/Debian-Hyprland)
-  -  [Ubuntu Hyprland Installer](https://gihub.com/LinuxBeginnings/Ubuntu-Hyprland)
-  -  [NixOS Hyprland Installer](https://gihub.com/LinuxBeginnings/NixOS-Hyprland)
-  -  [OpenmSuse Hyprland Installer](https://gihub.com/LinuxBeginnings/OpenSuse-Hyprland)
+  -  [Hyprland dotfiles](https://github.com/LinuxBeginnings/Hyprland-Dots)
+  -  [Arch Hyprland Installer](https://github.com/LinuxBeginnings/Arch-Hyprland)
+  -  [Fedora Hyprland Installer](https://github.com/LinuxBeginnings/Fedora-Hyprland)
+  -  [Debian Hyprland Installer](https://github.com/LinuxBeginnings/Debian-Hyprland)
+  -  [Ubuntu Hyprland Installer](https://github.com/LinuxBeginnings/Ubuntu-Hyprland)
+  -  [NixOS Hyprland Installer](https://github.com/LinuxBeginnings/NixOS-Hyprland)
+  -  [OpenSUSE Hyprland Installer](https://github.com/LinuxBeginnings/OpenSuse-Hyprland)
 - ✨ I also develop NixOS based projects   
   -  [ZaneyOS](https://gitlab.com/zaney/zaneyos)
      - Focused Hyprland config with flake, stylix and home manager 
