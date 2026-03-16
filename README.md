@@ -9,7 +9,7 @@
   -  [Debian Hyprland Installer](https://github.com/LinuxBeginnings/Debian-Hyprland)
   -  [Ubuntu Hyprland Installer](https://github.com/LinuxBeginnings/Ubuntu-Hyprland)
   -  [NixOS Hyprland Installer](https://github.com/LinuxBeginnings/NixOS-Hyprland)
-  -  [OpenmSuse Hyprland Installer](https://github.com/LinuxBeginnings/OpenSuse-Hyprland)
+  -  [OpenSUSE Hyprland Installer](https://github.com/LinuxBeginnings/OpenSuse-Hyprland)
 - ✨ I also develop NixOS based projects   
   -  [ZaneyOS](https://gitlab.com/zaney/zaneyos)
      - Focused Hyprland config with flake, stylix and home manager 
